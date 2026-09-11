@@ -11,7 +11,10 @@
 
 <h4 align="center">
 
-Plant-watering-collecting
+Plant-watering-collecting <br/>
+
+[![Assembly](https://img.shields.io/badge/Assembly-pink.svg)](/Assembly.md)
+[![Assembly](https://img.shields.io/badge/Journal-lime.svg)](/Journal.md)
 
 </h4>
 <div align="center">
@@ -19,6 +22,9 @@ Plant-watering-collecting
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-CAD-yellow.svg)
 ![Series](https://img.shields.io/badge/Series-Plant-lime.svg)
+
+
+
 
 </div>
 <p align="center">
@@ -43,16 +49,13 @@ Plant-watering-collecting
 <table>
 <tr>
 <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/a1f2ffdc-5986-40ca-98fb-a77b87c5125f" />
-
 </td>
 <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/260a6daa-c1d9-419b-a158-00a2cc4fb593" />
-
-                      
 </table>
 </div>
 
 
-## printable like: 
+## printable like: https://www.printables.com/model/1839235-plant-watering-collecting
 ## About the Project
 
 ### **Plant watering can** - It is a 3D printed Plant watering Can Design in Fusion 360. 
